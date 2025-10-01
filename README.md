@@ -23,4 +23,3 @@ This project demonstrates how to integrate **WebClient (Spring WebFlux)** with G
 
 ---
 
-## 📂 Project Structure
